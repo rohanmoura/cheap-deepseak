@@ -7,7 +7,7 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "Cheap DeepSpeak",
+  title: "Cheap DeepSeek",
   description: "Cheap DeepSpeak – Affordable Deepfake Alternative",
 };
 
